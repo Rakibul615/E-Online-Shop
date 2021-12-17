@@ -1,0 +1,36 @@
+.search-container{
+    font-family: 'Poppins', sans-serif;
+    background-color: #E7E9EB;
+    text-align: center;
+    line-height: 28px;
+    margin-bottom: 20px;
+    border: 5px solid #E7E9EB ;
+}
+.search-container input{
+    
+    width: 75%;
+    padding: 2px;
+}
+.search-container input:hover{
+    border-color:#E7E9EB ;
+}
+.shop-container{
+    background-color: #FFFFFF;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.product-container{
+    border-right: 1px solid #FED1B0;
+    margin-right: 5px;
+    margin-left: 50px;
+}
+.pagination{
+    margin: 40px;
+}
+.pagination button{
+    padding:0 10px;
+    margin-right: 20px;
+}
+.pagination .selected{
+    background-color: #467689;
+}
