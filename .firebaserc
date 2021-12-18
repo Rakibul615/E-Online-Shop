@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "ema-john-simple-e9bd8"
-  }
+    "default": "e-online-shop-e4e4b",
+    "y": "e-online-shop-e4e4b"
+  },
+  "targets": {}
 }
